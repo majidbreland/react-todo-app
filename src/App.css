@@ -13,6 +13,7 @@
   }
 }
 
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -22,6 +23,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+footer {
+  padding-top: 5%;
+  color: #D3D3D3;
 }
 
 .App-link {
@@ -35,4 +41,35 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.form-control.taskinput {
+  width:20%;
+  display: inline;
+}
+
+.todo-item .complete {
+  text-decoration: line-through;
+  align-items: center;
+  margin: auto;
+  pointer-events: none;
+}
+
+.input-group.add-task {
+  margin: auto;
+  padding-top: 2%;
+  padding-bottom: 10%;
+}
+
+.input-group {
+  text-align:center;
+}
+
+.header-row {
+  padding-top:8%;
+  padding-bottom: 3%;
+}
+
+.click-tasks {
+  color: #D3D3D3;
 }
