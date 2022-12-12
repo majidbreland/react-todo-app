@@ -2,6 +2,8 @@
 
 Project to show Basic React, Bootstrap, Import Google Fonts, Icons and Components
 
+<img src="https://i.imgur.com/W2JWy0W.jpg" width="500" height="" alt="accessibility text">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
